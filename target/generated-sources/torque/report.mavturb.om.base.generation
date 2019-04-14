@@ -1,0 +1,151 @@
+
+targetdatabase = mysql
+
+correctGetters = true
+
+             
+
+
+
+
+
+
+
+
+
+    BasePeers generated in package turbine.om
+    BaseObjects generated in package turbine.om
+    BaseManagers generated in package turbine.om
+    BaseBeans generated in package turbine.om.bean
+    Maps generated in package turbine.om.map
+
+    Created dir: F:\Maven\mvn_pro\mavturb\target\generated-sources\torque/turbine\om\
+
+    Failed to create dir or dir already exists: F:\Maven\mvn_pro\mavturb\target\generated-sources\torque/turbine\om\
+
+    Created dir: F:\Maven\mvn_pro\mavturb\target\generated-sources\torque/turbine\om\map\
+
+
+
+    
+
+        table1
+
+        
+
+        
+
+          
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+    BasePeers generated in package turbine.om
+    BaseObjects generated in package turbine.om
+    BaseManagers generated in package turbine.om
+    BaseBeans generated in package turbine.om.bean
+    Maps generated in package turbine.om.map
+
+    Failed to create dir or dir already exists: F:\Maven\mvn_pro\mavturb\target\generated-sources\torque/turbine\om\
+
+    Failed to create dir or dir already exists: F:\Maven\mvn_pro\mavturb\target\generated-sources\torque/turbine\om\
+
+    Failed to create dir or dir already exists: F:\Maven\mvn_pro\mavturb\target\generated-sources\torque/turbine\om\map\
+
+
+
+    
+
+        TURBINE_PERMISSION
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_ROLE
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_GROUP
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_ROLE_PERMISSION
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_USER
+
+        
+
+        
+
+          
+
+
+          
+
+
+        TURBINE_USER_GROUP_ROLE
+
+        
+
+        
+
+          
+
+
+          
+
+
+
+
+
+
+    
+
+;
+    Created dir: F:\Maven\mvn_pro\mavturb\target\generated-sources\torque/org\apache\torque\linkage\
+    
+      
+

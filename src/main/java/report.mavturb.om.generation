@@ -1,0 +1,125 @@
+
+targetdatabase = mysql
+
+correctGetters = true
+
+             
+
+
+
+
+
+
+
+
+
+    Peers generated in package turbine.om
+    Objects generated in package turbine.om
+    Managers generated in package turbine.om
+    Beans generated in package turbine.om.bean
+
+    Created dir: F:\Maven\mvn_pro\mavturb\src\main\java/turbine\om\
+
+    Failed to create dir or dir already exists: F:\Maven\mvn_pro\mavturb\src\main\java/turbine\om\
+
+
+
+
+        table1
+
+        
+
+
+          
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+    Peers generated in package turbine.om
+    Objects generated in package turbine.om
+    Managers generated in package turbine.om
+    Beans generated in package turbine.om.bean
+
+    Failed to create dir or dir already exists: F:\Maven\mvn_pro\mavturb\src\main\java/turbine\om\
+
+    Failed to create dir or dir already exists: F:\Maven\mvn_pro\mavturb\src\main\java/turbine\om\
+
+
+
+
+        TURBINE_PERMISSION
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_ROLE
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_GROUP
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_ROLE_PERMISSION
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_USER
+
+        
+
+
+          
+
+          
+
+
+
+        TURBINE_USER_GROUP_ROLE
+
+        
+
+
+          
+
+          
+
+
+
